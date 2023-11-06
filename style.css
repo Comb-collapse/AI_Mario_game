@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float:right;
+}
+.heading h3{
+    display: inline;
+}
+#Mar{
+    width: 100%;
+}
+.play{
+    font-size: larger;
+}
+h4 {
+    font-size: 100px;
+    width: 100%;
+}
+.modal-dialog{
+    width:90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 48%;
+}
